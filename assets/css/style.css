@@ -1,0 +1,51 @@
+
+body {
+    color: coral;
+    font-family: sans-serif, Serif;
+    font-size: 15px;
+    background-color: gainsboro;
+}
+
+a:hover {
+    text-decoration-line: none;
+    color: black;
+}
+
+.shadow {
+    text-shadow: 1px 1px 2px chocolate;
+}
+
+.li-one {
+    font-style: italic;
+}
+
+.li-two {
+    font-weight: bold;
+}
+
+div {
+    margin: 15px;
+    padding: 20px;
+    background-color: darkgray;
+}
+
+p {
+    text-indent: 100px;
+}
+
+.cadre {
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+}
+
+img {
+    padding-left: 1800px;
+    height: 100px;
+    width: 100px;
+}
+
+ul li {
+    list-style-type: circle;
+}
+
